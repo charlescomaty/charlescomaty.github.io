@@ -51,7 +51,7 @@ const SITE_CONFIG = {
   ],
 
   // ---- About page -----------------------------------------------------
-  bio: "I am a teen filmmaker making short films with a dream to do feature films in the future. I write, direct, act and edit in all of my short films. Every single one of them is crafted with care and a meaning behind every shot or creative decision. I am self taught (with the use of YouTube tutorials, books and own experience, as well as what I've learned from every film I watch. I like crime, sci-fi and fantasy movies. My two favorite directors are Christopher Nolan and David Fincher",
+  bio: "I am a teen filmmaker making short films, with a dream to do feature films in the future. I write, direct, act, and edit in all of my short films. Every single one of them is crafted with care and a meaning behind every shot or creative decision. I am self-taught (with the use of YouTube tutorials, books, and own experience), as well as what I've learned from every film I watch. I like crime, sci-fi, and fantasy movies. My two favorite directors are Christopher Nolan and David Fincher.",
 
   skills: [
     "Director",
