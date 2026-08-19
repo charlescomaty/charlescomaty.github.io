@@ -30,7 +30,7 @@ const SITE_CONFIG = {
     {
       title: "The Epic Fury",
       year: "2026",
-      description: "Ehe Epic Fury is a drama/thriller taking place during the war of 2026, about a Lebanese vlogger who must keep his sanity against solitude after being stuck in his house for days as the American Iranian war intensifies..",
+      description: "The Epic Fury is a drama/thriller taking place during the war of 2026, about a Lebanese vlogger who must keep his sanity against solitude after being stuck in his house for days as the American Iranian war intensifies..",
       videoUrl: "",
       posterUrl: ""
     },
